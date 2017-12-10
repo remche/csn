@@ -1,0 +1,9 @@
+This is a first in Europe : the french Council of Ministers allow the transfer of financial securitites ownership on the blockchain !
+
+Last Friday, the Council of Ministers passed a ministerial order easying the transfer of ownership of certain financial securities using blockchain. This text was the subject of public consultation with stakeholders.  It clarifies the terms of payment of dematerialized financial securities via a "shared electronic recording device", thus securing the use of " blockchain ", the technological underlyings of virtual currencies such as bitcoin, for the transmission of unlisted securities. on the stock market (SICAV units or mutual funds, negotiable debt securities, unlisted shares and bonds). This order will come into effect July 1, 2018.
+
+"The use of this technology will allow Fintech and other financial players to offer new solutions for securities trading - faster, cheaper, more transparent and safer solutions," said the Minister of Economy and Finance, Bruno Le Maire.
+
+Last months, the french finance departement increased measures to make blockchain solutions a new strategic axis of the place of Paris :
+
+"Alongside green finance and crowdfunding, our aspiration is that blockchain solutions become a new pillar of financial innovation in Paris," says Bruno Le Maire.
