@@ -2,20 +2,27 @@ POS Mining Co. is one of this under the radar compagnies, having an already work
 
 Hey Lawrence, can you quickly describe Stakepool project ?
 
-How does it differs from other stake project (MASS, Rocket Pool, StakeIt) ? 
+StakePOOL was started from a belief in Proof-of-Stake mining. The belief that it is still in it's infancy compared to Proof-Of-Work mining that bitcoin, Litecoin, Ethereum and many others use. So what our small team set out to do is take our knowledge of running POS and masternodes for our own personal gain and open it to the masses. One of the biggest complaints about POS mining is you need to lock the coins in a wallet. While there they are staking but you can't trade them and every time you withdraw money, the value of the reward decreases. With StakePOOL, you purchase a token, POOL. 100% of your ETH is used to purchase POS coins for staking or masternodes. With the POOL token, you are free to trade that token and as long as you hold it at the end of the month, you will still collect the POOL token reward in Ethereum.
+
+How does it differs from other stake project (MASS, Rocket Pool, StakeIt) ?
+
+We actually modelled a bit of what we do after MASS. They launched 2 months before us, but we saw some glaring omissions and assumptions in their whitepaper which we set out to correct. One of Mass' downfalls was they didn't have a game plan to rapidly deploy wallets for staking. Two months went by and they were still sitting in ETH. Having been a part of the POS community since 2014, I knew that before we launched, we had to already have our wallets sync'd and ready to go. And that was what we did and this was how 10 days after our pre-ICO, POOL was already paying out rewards to token holders.
+Rocket Pool is basically a smart contract setup to POS mine Ethereum once Ethereum hits casper release. There still isn't a definitive date for this yet. StakePOOL will also be POS mining Ethereum once casper is rolled out. As for StakeIt, from what I have heard, they still haven't made any payments to their token holders.
 
 So you already have an working infrastructure, could you say some more ?
+Following the failure of MASS, we knew from the start we'd have to hit the ground running to gain trust and acceptance amongst token holders and the ICO community. Before the ICO was announced, servers were in place, VPS's were up and running wallets, and we were ready to go. All that was missing were the coins. The ICO took care of that though and we are currently staking and running masternodes for 18 coins with a few others in waiting mode (Boscoin, SYScoin, Ethereum, NULS, HLM). The reason these aren't staking is their wallets haven't been released yet to support staking or masternodes, but we have the coins waiting to launch on day 1.
 
 Ok, is ICO still running ? What is the price of POOL tokens ?
+Yes, POOL is 1,800 POOL = 1 ETH.
 
 Which coins and masternodes the funds already owns ? Do you have a public sheet of the wallets ?
+We are running masternodes for PIVX, XIOS, TX, EXCL, CRAVE, ARC, ENT, CHC. We have the coins waiting for BOS, DIVI, NULS, HLM, and SYS so once those release, we will launch those on the first day. We are staking OK, BLK, NAV, NOVA, HYP, RAIN, NEBL, ATMOS, PINK, and STRAT. There is a google doc with the current list of coins.
 
-And for the future, do you have a plan on some coins ?
+And for the future, do you have a plan on some coins?
+Our top 3 to get up and running are BOS, SYS, and ETH. All three will provide a ton of value to POOL token holders. Other than those, we are accumulating WTC and basically staying current as a lot of POW coins will be switching to POS in 2018 as it is more sustainable. Once Ethereum goes, it will change everything.
 
-Do you have a proactive strategy on which coins to buys, sell or is it fully automatic ?
+Do you have a proactive strategy on which coins to buys, sell or is it fully automatic?
+I wish there was a crystal ball I could tell you about that we consult. We keep meticulous data on the coins in our wallets and the returns they are getting. We also watch coin prices and have sold off some staked tokens mid-month to capitalize on price spikes. We also sold a couple of our early wallets on price spikes as we felt the price increase far outweighed the stake rewards. We also watch coin prices on the other end for buying. We bought our 100,000 SYScoin needed for a masternode at $.14 -.15 USD. We did this because we expected the price to moon prior to masternode wallets being released in February 2018. This turned out to be a bold yet wise move as SYScoin is now trading over 3x where we bought at.
 
-Stakepool had a impressive ROI for now. Do you expect the same for coming monthes ?
-
-Would you like to add any further info?
-
-Thanks Lawrence !
+Stakepool had a impressive ROI for now. Do you expect the same for coming months?
+That is the great thing about staking and mining. There is always a reward. We don't have to worry about increases in electricity rates like POW miners either.
