@@ -16,7 +16,7 @@ Ok, is ICO still running ? What is the price of POOL tokens ?
 Yes, POOL is 1,800 POOL = 1 ETH.
 
 Which coins and masternodes the funds already owns ? Do you have a public sheet of the wallets ?
-We are running masternodes for PIVX, XIOS, TX, EXCL, CRAVE, ARC, ENT, CHC. We have the coins waiting for BOS, DIVI, NULS, HLM, and SYS so once those release, we will launch those on the first day. We are staking OK, BLK, NAV, NOVA, HYP, RAIN, NEBL, ATMOS, PINK, and STRAT. There is a google doc with the current list of coins.
+We are running masternodes for PIVX, XIOS, TX, EXCL, CRAVE, ARC, ENT, CHC. We have the coins waiting for BOS, DIVI, NULS, HLM, and SYS so once those release, we will launch those on the first day. We are staking OK, BLK, NAV, NOVA, HYP, RAIN, NEBL, ATMOS, PINK, and STRAT. There is a google doc with the current list of coins. https://docs.google.com/spreadsheets/d/10qvVzcbE9dwd6CBmuZegiFRNsK5-AFxg-V_cuo8rSnI/edit?usp=sharing
 
 And for the future, do you have a plan on some coins?
 Our top 3 to get up and running are BOS, SYS, and ETH. All three will provide a ton of value to POOL token holders. Other than those, we are accumulating WTC and basically staying current as a lot of POW coins will be switching to POS in 2018 as it is more sustainable. Once Ethereum goes, it will change everything.
@@ -26,3 +26,6 @@ I wish there was a crystal ball I could tell you about that we consult. We keep 
 
 Stakepool had a impressive ROI for now. Do you expect the same for coming months?
 That is the great thing about staking and mining. There is always a reward. We don't have to worry about increases in electricity rates like POW miners either.
+
+Further info?
+Thank you for the interview and be sure to check us out at stakepool.co and on Telegram at https://t.me/joinchat/FLO8Ag0Pr6YaHNd0CEBB-g
