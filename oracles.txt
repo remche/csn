@@ -1,0 +1,12 @@
+Oracles Network is an open, public permissioned blockchain, based on Ethereum protocal. Instead of using Proof Of Work (POW) or Proof Of Stake (POS) like many other blokchain, it uses Proof of Authority (POA) consensus algorithm. What is POA, how it works, and how Oracles Network want to become one big actor of decentralization ? Keep reading !
+
+
+POA, set of authorities (not everydoby). AuRA, parity. Validators.
+
+Features
+
+Dapp
+
+Programming
+
+Conclusion
